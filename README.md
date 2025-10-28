@@ -1,11 +1,11 @@
-# 🚀 Terraform Tutorial Series – Day 7: Terraform Modules (Basics)
+#  Terraform Tutorial Series – Day 7: Terraform Modules (Basics)
 
 Welcome to **Day 7** of the **Terraform Tutorial Series**!  
 In this lesson, we’ll explore **Terraform Modules** — one of the most powerful features of Terraform that helps you **organize**, **reuse**, and **scale** your infrastructure code efficiently.
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 By the end of this lesson, you will be able to:
 
@@ -16,7 +16,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🧠 What Are Terraform Modules?
+##  What Are Terraform Modules?
 
 A **Terraform module** is a **container for multiple resources** that are used together.  
 Think of it as a **function in programming** – it groups related resources and can be called multiple times with different inputs.
